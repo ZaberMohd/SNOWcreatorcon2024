@@ -29,6 +29,7 @@
         <sys_updated_on>2024-09-11 19:42:11</sys_updated_on>
         <view_type>DIAGRAM</view_type>
     </sys_pd_process_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=acb8e3e4942a1a8f112e46beb47bdac9"/>
     <sys_pd_process_definition action="INSERT_OR_UPDATE">
         <access>public</access>
         <active>true</active>
@@ -59,6 +60,7 @@
         <sys_updated_on>2024-09-11 19:42:11</sys_updated_on>
         <view_type>DIAGRAM</view_type>
     </sys_pd_process_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=acb8e3e4942a1a8f112e46beb47bdac9"/>
     <sys_pd_lane action="delete_multiple" query="process_definition=acb8e3e4942a1a8f112e46beb47bdac9^sys_idNOT IN48353423fabf5df2595961dd88f7b7a6"/>
     <sys_pd_lane action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -80,6 +82,7 @@
         <sys_updated_on>2024-09-11 17:42:05</sys_updated_on>
         <visible_rule/>
     </sys_pd_lane>
+    <sys_translated_text action="delete_multiple" query="documentkey=48353423fabf5df2595961dd88f7b7a6"/>
     <sys_variable_value action="delete_multiple" query="document_key=48353423fabf5df2595961dd88f7b7a6"/>
     <sys_pd_activity action="delete_multiple" query="process_definition=acb8e3e4942a1a8f112e46beb47bdac9^sys_idNOT IN52145a9052149a105214e28052146080,a5ec6e0a5e2e30a5ec380a5e3f10a5e3,694e1f0694d770694e910694fcf06947,399ab340399a49b0399a49f0399a9e50,17f910017fae7017f58a017f850017ff,85109708517840851cc708515a108518,7d4d9207d414407d472a07d467907d46,b18cae0b1808b0b18f150b186de0b184"/>
     <sys_pd_activity action="INSERT_OR_UPDATE">
@@ -111,6 +114,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=52145a9052149a105214e28052146080"/>
     <sys_variable_value action="delete_multiple" query="document_key=52145a9052149a105214e28052146080"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -1016,6 +1020,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=a5ec6e0a5e2e30a5ec380a5e3f10a5e3"/>
     <sys_variable_value action="delete_multiple" query="document_key=a5ec6e0a5e2e30a5ec380a5e3f10a5e3"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -1104,6 +1109,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=694e1f0694d770694e910694fcf06947"/>
     <sys_variable_value action="delete_multiple" query="document_key=694e1f0694d770694e910694fcf06947"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -2193,6 +2199,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=399ab340399a49b0399a49f0399a9e50"/>
     <sys_variable_value action="delete_multiple" query="document_key=399ab340399a49b0399a49f0399a9e50"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -3284,6 +3291,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=17f910017fae7017f58a017f850017ff"/>
     <sys_variable_value action="delete_multiple" query="document_key=17f910017fae7017f58a017f850017ff"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -4445,6 +4453,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=85109708517840851cc708515a108518"/>
     <sys_variable_value action="delete_multiple" query="document_key=85109708517840851cc708515a108518"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -4533,6 +4542,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=7d4d9207d414407d472a07d467907d46"/>
     <sys_variable_value action="delete_multiple" query="document_key=7d4d9207d414407d472a07d467907d46"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -5625,6 +5635,7 @@
         <type_vals/>
         <variant/>
     </sys_pd_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=b18cae0b1808b0b18f150b186de0b184"/>
     <sys_variable_value action="delete_multiple" query="document_key=b18cae0b1808b0b18f150b186de0b184"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_activity</document>
@@ -6811,6 +6822,7 @@
         <trigger_inputs/>
         <trigger_type display_value="Record Create">ab6951170f1200108c87f4f0ff767e4f</trigger_type>
     </sys_pd_trigger_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f6f8d48049afa1ad552776bfb09cc293"/>
     <sys_variable_value action="delete_multiple" query="document_key=f6f8d48049afa1ad552776bfb09cc293"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_pd_trigger_instance</document>
@@ -6858,7 +6870,7 @@
     <sys_flow_record_trigger action="delete_multiple" query="sys_id=9afe6b0e83289210f39ccad6feaad35b^sys_idNOT IN9afe6b0e83289210f39ccad6feaad35b"/>
     <sys_flow_record_trigger action="INSERT_OR_UPDATE">
         <active>true</active>
-        <condition table="x_869151_leaves_request">request_type=127afe4683249210f39ccad6feaad35b<item display_table="sc_cat_item_producer" display_value="Employee Leave Management" endquery="false" field="request_type" goto="false" newquery="false" operator="=" or="false" value="127afe4683249210f39ccad6feaad35b"/>
+        <condition table="x_869151_leaves_request">request_type=127afe4683249210f39ccad6feaad35b<item endquery="false" field="request_type" goto="false" newquery="false" operator="=" or="false" value="127afe4683249210f39ccad6feaad35b"/>
         </condition>
         <name/>
         <on_delete>false</on_delete>

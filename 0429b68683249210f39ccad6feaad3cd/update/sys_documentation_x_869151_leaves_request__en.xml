@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Leaves Request" language="en" table="x_869151_leaves_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Leaves Request</label>
+            <language>en</language>
+            <name>x_869151_leaves_request</name>
+            <plural>Leaves Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-19 15:50:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Leaves Request</sys_name>
+            <sys_package display_value="New Journey" source="x_869151_new_journ">d994795cc30212104b97b61ed4013125</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="leaves">0429b68683249210f39ccad6feaad3cd</sys_scope>
+            <sys_update_name>sys_documentation_x_869151_leaves_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-19 15:50:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition">
+    <sys_pd_process_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <designer_state/>
+        <engine_major_version/>
+        <label>Leaves plan</label>
+        <name>leaves_plan</name>
+        <now_assist_prompt/>
+        <process_type display_value="Creator Studio Automation">a487710eff0f3110893effffffffff4d</process_type>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <schema_version>2</schema_version>
+        <snapshot/>
+        <start_non_blocking>true</start_non_blocking>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 16:05:51</sys_created_on>
+        <sys_id>b2bc3ea019c97b1af13ee7bae264e738</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leaves plan</sys_name>
+        <sys_package display_value="leaves" source="x_869151_leaves">0429b68683249210f39ccad6feaad3cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="leaves">0429b68683249210f39ccad6feaad3cd</sys_scope>
+        <sys_update_name>sys_pd_process_definition_b2bc3ea019c97b1af13ee7bae264e738</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 16:09:43</sys_updated_on>
+        <view_type>DIAGRAM</view_type>
+    </sys_pd_process_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=b2bc3ea019c97b1af13ee7bae264e738"/>
+    <sys_pd_process_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <designer_state/>
+        <engine_major_version/>
+        <label>Leaves plan</label>
+        <name>leaves_plan</name>
+        <now_assist_prompt/>
+        <process_type display_value="Creator Studio Automation">a487710eff0f3110893effffffffff4d</process_type>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <schema_version>2</schema_version>
+        <snapshot/>
+        <start_non_blocking>true</start_non_blocking>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 16:05:51</sys_created_on>
+        <sys_id>b2bc3ea019c97b1af13ee7bae264e738</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leaves plan</sys_name>
+        <sys_package display_value="leaves" source="x_869151_leaves">0429b68683249210f39ccad6feaad3cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="leaves">0429b68683249210f39ccad6feaad3cd</sys_scope>
+        <sys_update_name>sys_pd_process_definition_b2bc3ea019c97b1af13ee7bae264e738</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 16:09:43</sys_updated_on>
+        <view_type>DIAGRAM</view_type>
+    </sys_pd_process_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=b2bc3ea019c97b1af13ee7bae264e738"/>
+    <sys_pd_lane action="delete_multiple" query="process_definition=b2bc3ea019c97b1af13ee7bae264e738"/>
+    <sys_pd_activity action="delete_multiple" query="process_definition=b2bc3ea019c97b1af13ee7bae264e738"/>
+    <sys_pd_snapshot action="delete_multiple" query="sys_id="/>
+    <sys_json_chunk action="delete_multiple" query="document_id="/>
+    <sys_pd_snapshot_chunk action="delete_multiple" query="document_id="/>
+</record_update>
