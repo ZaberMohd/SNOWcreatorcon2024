@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>fc11fc6d47100210c46d916a216d431d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_remote_update_set">
+    <sys_remote_update_set action="INSERT_OR_UPDATE">
+        <application display_value="Global">global</application>
+        <application_name>Global</application_name>
+        <application_scope>global</application_scope>
+        <application_version/>
+        <collisions>1</collisions>
+        <commit_date>2024-11-19 17:01:58</commit_date>
+        <deleted>4</deleted>
+        <description>Hackathon 2024 AKSZ </description>
+        <inserted>34</inserted>
+        <name>Hackathon 2024 AKSZ</name>
+        <origin_sys_id/>
+        <parent/>
+        <release_date/>
+        <remote_base_update_set/>
+        <remote_parent_id/>
+        <remote_sys_id>ef13a27847500210c46d916a216d4319</remote_sys_id>
+        <state>committed</state>
+        <summary>55</summary>
+        <sys_class_name>sys_remote_update_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-11 10:08:40</sys_created_on>
+        <sys_id>fc11fc6d47100210c46d916a216d431d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 17:02:30</sys_updated_on>
+        <update_set display_value="Hackathon 2024 AKSZ">d400a254c30612104b97b61ed40131f5</update_set>
+        <update_source/>
+        <updated>16</updated>
+    </sys_remote_update_set>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 17:06:14</sys_created_on>
+        <sys_id>b6f0a6d4c30612104b97b61ed4013114</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hackathon 2024 AKSZ</sys_name>
+        <sys_package display_value="leaves" source="x_869151_leaves">0429b68683249210f39ccad6feaad3cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="leaves">0429b68683249210f39ccad6feaad3cd</sys_scope>
+        <sys_update_name>sys_metadata_link_b6f0a6d4c30612104b97b61ed4013114</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 17:06:14</sys_updated_on>
+        <tablename>sys_remote_update_set</tablename>
+    </sys_metadata_link>
+</record_update>
